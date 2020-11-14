@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
 import TodoInput from './components/TodoInput';
 import TodoList from './components/TodoList';
-//showin vs code guthubt
+//showin vs code guthubts
 export default function App() {
   return (
     <div>
