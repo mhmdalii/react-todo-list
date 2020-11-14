@@ -1,0 +1,21 @@
+@import '../../index.scss';
+
+.tour{
+    img{
+        width: 100%;
+        display: block;
+min-height: 13rem;
+    }
+}
+.img-container{
+    position: relative;
+}
+.close-btn{
+    position: absolute;
+    display: block;
+    top: 5%;
+    right: 5%;
+    color: $mainGreen;
+    font-size: 2rem;
+    cursor: pointer;
+}
