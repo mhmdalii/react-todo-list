@@ -45,7 +45,7 @@ export default class App extends Component {
   };
   handleEdit = (id) => {
     console.log('====================================');
-    console.log('handleEdit', `${id}`);
+    console.log('handleEditt', `${id}`);
     console.log('====================================');
   };
 
